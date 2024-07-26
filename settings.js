@@ -4,14 +4,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923700480851"
+global.ownernomer = "923176827930"
 global.ownername = "𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈"
 global.ytname = "SuNny bUtT603"
 global.socialm = "GitHub: SuNnyi78"
 global.location = "Chaklala Scheme 3 Rawalpindi,Pakistan"
 
-global.ownernumber = '923700480851'  //creator number
-global.ownername = '𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈ 💛' //owner name
+global.ownernumber = '923176827930'  //creator number
+global.ownername = '𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈ 💛' //owner name
 global.botname = '𝙐𝘿 𝘽𝙐𝙂' //name of the bot
 
 //sticker details
@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "Dark Devil"
 
 //theme link
-global.link = 'https://wa.me/+923700480851'
+global.link = 'https://wa.me/+923176827930'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
