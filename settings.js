@@ -4,14 +4,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923176827930"
+global.ownernomer = "923700480851"
 global.ownername = "𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈"
 global.ytname = "SuNny bUtT603"
 global.socialm = "GitHub: SuNnyi78"
 global.location = "Chaklala Scheme 3 Rawalpindi,Pakistan"
 
-global.ownernumber = '923176827930'  //creator number
-global.ownername = '𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈ 💛' //owner name
+global.ownernumber = '923700480851'  //creator number
+global.ownername = '𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈ 💛' //owner name
 global.botname = '𝙐𝘿 𝘽𝙐𝙂' //name of the bot
 
 //sticker details
@@ -20,10 +20,10 @@ global.author = '𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Dark Devil"
+global.wm = "SunNy Devil"
 
 //theme link
-global.link = 'https://wa.me/+923176827930'
+global.link = 'https://wa.me/+923700480851'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -34,7 +34,7 @@ global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //auto block +92
+global.anti92 = true //auto block +1
 global.autoswview = true //auto view status/story
 
 //menu type 
@@ -56,8 +56,8 @@ global.mess = {
     prem: 'Teri Bhen ka Faluda This feature can be used by premium user only',
     admin: 'Lund k bache This feature can be used by admin only',
     botAdmin: 'Gandu This feature can only be used when the bot is a group admin ',
-    owner: 'Lun tai wajh This feature can be used by owner only',
-    group: 'This feature is only for groups',
+    owner: 'Lun tai wajh This feature can be used by my owner only',
+    group: 'Tatty chup saly This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
     error: 'Error!',
