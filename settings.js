@@ -4,13 +4,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923700480851"
+global.ownernomer = "923477103574"
 global.ownername = "𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈"
 global.ytname = "SuNny bUtT603"
 global.socialm = "GitHub: SuNnyi78"
 global.location = "Chaklala Scheme 3 Rawalpindi,Pakistan"
 
-global.ownernumber = '923700480851'  //creator number
+global.ownernumber = '923477103574'  //creator number
 global.ownername = '𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈ 💛' //owner name
 global.botname = '𝙐𝘿 𝘽𝙐𝙂' //name of the bot
 
@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "SunNy Devil"
 
 //theme link
-global.link = 'https://wa.me/+923700480851'
+global.link = 'https://wa.me/+923477103574'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -34,7 +34,7 @@ global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //92
+global.anti92 = true //92
 global.autoswview = true //auto view status/story
 
 //menu type 
@@ -63,7 +63,7 @@ global.mess = {
     error: 'Error!',
 }
 
-global.thumb = fs.readFileSync('./UmarMedia/thumb.jpg')
+global.thumb = fs.readFileSync('./SuNnyMedia/thumb.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
